@@ -31,6 +31,10 @@ You can check the correctness of the installation by executing the command to ca
 ```
  python analysis.py --help
 ```
+You can also run the program on the test apk file, which is located in the "examples/" directory using the command:
+```
+python analysis.py -apk $REPO_LOCATION\examples\air.com.CandySlacking-00019D870F0F42F0803214BE4BF290428CFD6C7290918E6CF8823F318D3BF620.apk
+```
 
 ## **Instructions for working with software**
 
