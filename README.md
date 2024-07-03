@@ -1,4 +1,4 @@
-##taint-tool
+## **taint-tool**
 
 This repository contains materials on a practical task dedicated to exploring the possibilities of static taint analysis for Android applications.
 
