@@ -24,11 +24,11 @@ The software does not require special installation, you only need to download al
 
 You can check the correctness of the installation by executing the command to call help from the directory where all directories and project files are downloaded:
 
-```powershell
+```
  python analysis.py -h
 ```
 
-```powershell
+```
  python analysis.py --help
 ```
 
@@ -36,7 +36,7 @@ You can check the correctness of the installation by executing the command to ca
 
 To work with the program, you need to run the script from the directory where you downloaded all the directories and files of the project using the command:
 
-```powershell
+```
  python analysis.py -apk <apk-path>
 ```
 
